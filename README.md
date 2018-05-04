@@ -1,4 +1,7 @@
 > 怎么运行
 
+npm install
+
 node app.js
-然后打开localhost:3000就可以看到结果
+
+点击index.html上传图片就行了
