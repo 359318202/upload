@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "express": "^4.15.3"
+  },
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
